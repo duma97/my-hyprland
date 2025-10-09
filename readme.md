@@ -1,12 +1,16 @@
-This is the manual for my Arch hyprland, hyprpaper, hyprlock, waybar config installation and use.
+# My Hyprland Dotfiles
 
-At first install Arch linux, if you use archinstall installation script add only following packages:
-git
-wofi
-rofi
-firefox
-hyprpaper
-hyprlock
-waybar
-vim
 
+
+## ⚙️ Installation Guide
+
+This guide assumes you are on Arch Linux.For other Distros look for my other Repos.
+
+### 1. Install Dependencies
+
+First, ensure your system is up-to-date and install the necessary packages from the official repositories.
+
+```bash
+sudo pacman -S git wofi rofi firefox hyprpaper hyprlock hyprshot waybar vim code fastfetch hyfetch
+```
+ That's the base we need, you can install additional packages by your own.
