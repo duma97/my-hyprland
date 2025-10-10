@@ -6,7 +6,13 @@
 
 This guide assumes you are on Arch Linux.For other Distros look for my other Repos.
 
-### 1. Install Dependencies
+### 1. Install Hyprland
+
+```bash
+sudo pacman -S hyprland
+```
+
+### 2. Install Dependencies
 
 First, ensure your system is up-to-date and install the necessary packages from the official repositories.
 
