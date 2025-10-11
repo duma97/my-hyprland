@@ -6,17 +6,15 @@
 
 This guide assumes you are on Arch Linux.For other Distros look for my other Repos.
 
-### 1. Install Hyprland
+### 1. Install Hyprland:
+
+Arch users:
 
 ```bash
-sudo pacman -S hyprland
+sudo pacman -S hyprland kitty waybar wofi dunst swww grim slurp hyprlock hypridle
 ```
-
-### 2. Install Dependencies
-
-First, ensure your system is up-to-date and install the necessary packages from the official repositories.
+Debian/Ubuntu/Mint users:
 
 ```bash
-sudo pacman -S git wofi rofi firefox hyprpaper hyprlock hyprshot waybar vim code fastfetch hyfetch
+sudo apt install hyprland kitty waybar wofi dunst swww grim slurp hyprlock hypridle
 ```
- That's the base we need, you can install additional packages by your own.
