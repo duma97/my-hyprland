@@ -18,3 +18,6 @@ Debian/Ubuntu/Mint users:
 ```bash
 sudo apt install hyprland kitty waybar wofi dunst swww grim slurp hyprlock hypridle
 ```
+Fedora users:
+```bash
+```
