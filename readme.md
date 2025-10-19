@@ -1,7 +1,6 @@
 # My Hyprland Dotfiles
 
 
-
 ## ⚙️ Installation Guide
 
 This guide assumes you are on Arch Linux.For other Distros look for my other Repos.
